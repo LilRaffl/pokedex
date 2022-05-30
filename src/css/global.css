@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant:wght@300&family=Poppins:ital,wght@0,200;0,800;1,500&family=Russo+One&display=swap');
+body{
+    font-family: 'Russo One', sans-serif;
+    display:flex;
+    justify-content:center ;
+    min-height: 100vh;
+    background-color: #DADFE8;
+
+}
+
+.pokedex{
+    
+    display:flex ;
+    gap:30px;
+    padding: 30px;
+}
